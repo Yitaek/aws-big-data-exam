@@ -22,6 +22,7 @@ I hope that the [exam study guide](https://github.com/Yitaek/aws-big-data-exam/b
 Practice Questions:
 - https://www.aws.training/Details/Curriculum?id=21332
 - https://www.whizlabs.com/aws-certified-big-data-specialty
+- https://www.study4exam.com/amazon/aws-certified-big-data-specialty-questions-pdf
 
 Other Exam Overviews/Debriefs:
 - https://medium.com/@simonleewm/my-path-to-aws-big-data-speciality-certification-4baff3a8150
